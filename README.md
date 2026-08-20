@@ -155,11 +155,11 @@ reducer 累加寫入共享狀態，各代理只回傳自己新增的資料，不
 |---|---|
 | [`docs/01_architecture.md`](docs/01_architecture.md) | LangGraph 拓撲、共享狀態 schema、reducer 與 checkpoint 設計 |
 | [`docs/02_agents.md`](docs/02_agents.md) | A1～A6、Agent B、兩道 Gate 的逐一規格與失效行為 |
-| `docs/03_data_sources.md` | 三資料來源主從定位、降級策略、證據鏈（撰寫中） |
-| `docs/04_safeguards.md` | 異常分類法、嚴重度分級、攔阻規則（撰寫中） |
-| `docs/05_human_in_the_loop.md` | 人在迴路、中斷與續跑、決策帳本（撰寫中） |
-| `docs/06_validation.md` | 比對基準建立方法、回溯測試設計（撰寫中） |
-| `docs/07_design_decisions.md` | 架構決策紀錄（ADR）（撰寫中） |
+| [`docs/03_data_sources.md`](docs/03_data_sources.md) | 三資料來源主從定位、降級策略、證據鏈 |
+| [`docs/04_safeguards.md`](docs/04_safeguards.md) | 異常分類法、嚴重度分級、攔阻規則 |
+| [`docs/05_human_in_the_loop.md`](docs/05_human_in_the_loop.md) | 人在迴路、中斷與續跑、決策帳本 |
+| [`docs/06_validation.md`](docs/06_validation.md) | 比對基準建立方法、回溯測試設計 |
+| [`docs/07_design_decisions.md`](docs/07_design_decisions.md) | 架構決策紀錄（ADR） |
 | [`archive/2025-12_initial_concept.md`](archive/2025-12_initial_concept.md) | ⚠️ 2025-12 提案期構想，**已被取代**，僅供保存設計演進 |
 
 ---
